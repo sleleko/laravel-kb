@@ -1,8 +1,25 @@
-# laravel-kb
+# Laravel Knowledge Base
 
-## Controllers
-### uploadFileController.php
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-Это простой контроллер, который проверяет, был ли файл отправлен в запросе, и загружает его в директорию "storage/app/files". Если файл не был отправлен или не является допустимым типом, контроллер возвращает сообщение об ошибке. Если же файл был успешно загружен, контроллер возвращает сообщение об успешной загрузке файла.
+DevOps Knowledge Base (DevOps-KB) is a collection of resources, tools, articles, and best practices for developers and DevOps professionals. The aim of this project is to provide a convenient repository of information for those looking to deepen their knowledge and skills in the field of DevOps.
 
-Обратите внимание, что этот пример использует директорию "storage/app/files" для сохранения загруженных файлов. Если вы хотите сохранять файлы в другую директорию, вам нужно изменить первый аргумент метода storeAs().
+## Main Sections
+
+* [Controllers](/controllers)
+* [Articles Russian](/aricles/ru)
+* [Articles English](/aricles/en)
+
+## Contributing to the Project
+
+I,m welcome contributions from everyone and are excited for any suggestions to improve and expand DevOps-KB. If you would like to add a new command or script, suggest a change, or have found an error, please follow these steps:
+
+1. [Fork this repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
+2. Create a branch for your changes (e.g., `add-new-solution`)
+3. Make your changes and commit them
+4. Create a [pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) with a detailed description of your proposals
+5. After reviewing your changes, they will be merged into the main repository
+
+## License
+
+This project is distributed under the [MIT License](LICENSE).
