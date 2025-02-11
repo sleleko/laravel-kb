@@ -7,8 +7,8 @@ DevOps Knowledge Base (DevOps-KB) is a collection of resources, tools, articles,
 ## Main Sections
 
 * [Controllers](/controllers)
-* [Articles Russian](/aricles/ru)
-* [Articles English](/aricles/en)
+* [Articles Russian](/articles/ru)
+* [Articles English](/articles/en)
 
 ## Contributing to the Project
 
