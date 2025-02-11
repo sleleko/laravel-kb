@@ -2,4 +2,4 @@
 
 ## Разделы
 
-* [Паттерны](/patterns)
+* [Паттерны](/articles/ru/patterns)
